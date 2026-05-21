@@ -1,2 +1,0 @@
-# PadronJayvie
-My website portfolio
